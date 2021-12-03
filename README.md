@@ -1,1 +1,2 @@
-# WarpTank
+This is a 2-player turn based game where the motive of both players is to destroy each other’s tank in a warped arena where the surface is partitioned into the inner edges of a polygon. 
+Each turn a player gets a chance to fire a projectile. The initial velocity of the projectile is determined in a partially luck based method and the player has the freedom to choose a trajectory for it. If thrown at the right trajectory(determined by the player through analysis) the projectile will hit the opponent’s tank causing damage and decreasing its health. Player wins if he brings down his opponent’s health to 0.
