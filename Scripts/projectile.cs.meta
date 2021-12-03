@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b0de0c9ecaef00a458b6624f6915bfcf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bomb: {instanceID: 0}
+  - t1: {instanceID: 0}
+  - t2: {instanceID: 0}
+  - exp: {instanceID: 0}
+  - turret1: {instanceID: 0}
+  - turret2: {instanceID: 0}
+  - tank1_hb: {fileID: 9170932547158651987, guid: 50e7f68fb890541cc83317f042b5be86, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
